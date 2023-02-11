@@ -1,0 +1,21 @@
+/* Ajouter votre CSS ici */
+section {
+    font-family: "Helvetica";
+}
+
+p {
+    margin: 20px;
+    text-transform: capitalize;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    font-size: 2em;
+}
+
+h2 {
+    padding: 10px;
+    background-color: red;
+    border-left: 50px solid black;
+}

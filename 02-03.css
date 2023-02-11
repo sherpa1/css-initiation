@@ -1,0 +1,12 @@
+/* Ajouter votre CSS ici */
+p {
+    color: blue;
+}
+
+.maclasse {
+    color: green;
+}
+
+#superid {
+    color: red;
+}

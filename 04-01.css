@@ -1,0 +1,12 @@
+table td {
+    border: solid 1px;
+    padding: 3px;
+}
+
+table tr:nth-child(odd) {
+    background-color: red;
+}
+
+table tr:last-child {
+    color: blue;
+}

@@ -1,0 +1,14 @@
+p {
+    color: red;
+}
+
+.maclasse {
+    background-color: yellow;
+    padding: 10px;
+}
+
+#monid {
+    border: solid 1px;
+    margin: 10px;
+    padding: 10px;
+}
